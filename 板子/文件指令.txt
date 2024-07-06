@@ -1,0 +1,3 @@
+freopen("C:\\Users\\MILI\\Desktop\\1002.in", "r", stdin);
+freopen("1.out", "w", stdout);
+fc 1002.out 1.out /N
